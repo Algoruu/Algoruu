@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Algoruu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-> **화이팅!!🍀🥰**
+> **화이팅!!🍀**
