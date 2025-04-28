@@ -10,7 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Algoruu&show_icons=true&theme=panda)
 
 ### 👇 Follow Me!
-<a href="https://algoruu.github.io/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://algoruu.github.io/"/> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg
+<a href="https://algoruu.github.io/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://algoruu.github.io/"/>
 
 ### 📫 Contact
 
