@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <br><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Algoruu&show_icons=true&theme=panda)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Algoruu)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 👇 Follow Me!
 <a href="https://algoruu.github.io/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://algoruu.github.io/"/>
